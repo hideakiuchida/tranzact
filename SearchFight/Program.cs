@@ -33,6 +33,11 @@ namespace SearchFight
                 Console.WriteLine($"SearchEngine: {item.SearchEngine}");
                 Console.WriteLine($"Programming Language Winner by Search Engine - Name: {item.ProgrammingLanguageWinner.Name}");
                 Console.WriteLine($"Programming Language Winner by Search Engine - PopularityAmount: {item.ProgrammingLanguageWinner.PopularityAmount}");
+                foreach (var language in item.ProgrammingLanguages)
+                {
+                    Console.WriteLine($"Programming Language by Search Engine - Name: {language.Name}");
+                    Console.WriteLine($"Programming Language by Search Engine - PopularityAmount: {language.PopularityAmount}");
+                }
             }
             Console.WriteLine($"TotalWinner: {result.TotalWinner}");
 
