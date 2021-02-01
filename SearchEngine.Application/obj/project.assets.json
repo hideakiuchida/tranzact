@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SearchEngine.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "SearchFight.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SearchEngine.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SearchEngine.Infrastructure.dll": {}
+        }
+      },
+      "SearchFight.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SearchFight.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SearchFight.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SearchEngine.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../SearchEngine.Infrastructure/SearchEngine.Infrastructure.csproj",
+      "msbuildProject": "../SearchEngine.Infrastructure/SearchEngine.Infrastructure.csproj"
+    },
+    "SearchFight.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SearchFight.Domain/SearchFight.Domain.csproj",
+      "msbuildProject": "../SearchFight.Domain/SearchFight.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "SearchEngine.Infrastructure >= 1.0.0",
+      "SearchFight.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Y52015IKBN#80WK00N7L\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\CodeProjects\\SearchEngine.Application\\SearchEngine.Application.csproj",
+      "projectName": "SearchEngine.Application",
+      "projectPath": "D:\\CodeProjects\\SearchEngine.Application\\SearchEngine.Application.csproj",
+      "packagesPath": "C:\\Users\\Y52015IKBN#80WK00N7L\\.nuget\\packages\\",
+      "outputPath": "D:\\CodeProjects\\SearchEngine.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Y52015IKBN#80WK00N7L\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\CodeProjects\\SearchEngine.Infrastructure\\SearchEngine.Infrastructure.csproj": {
+              "projectPath": "D:\\CodeProjects\\SearchEngine.Infrastructure\\SearchEngine.Infrastructure.csproj"
+            },
+            "D:\\CodeProjects\\SearchFight.Domain\\SearchFight.Domain.csproj": {
+              "projectPath": "D:\\CodeProjects\\SearchFight.Domain\\SearchFight.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

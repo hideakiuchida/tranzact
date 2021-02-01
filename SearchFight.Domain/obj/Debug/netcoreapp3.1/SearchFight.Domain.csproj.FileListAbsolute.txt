@@ -1,0 +1,9 @@
+D:\CodeProjects\SearchFight.Domain\bin\Debug\netcoreapp3.1\SearchFight.Domain.deps.json
+D:\CodeProjects\SearchFight.Domain\bin\Debug\netcoreapp3.1\SearchFight.Domain.dll
+D:\CodeProjects\SearchFight.Domain\bin\Debug\netcoreapp3.1\SearchFight.Domain.pdb
+D:\CodeProjects\SearchFight.Domain\obj\Debug\netcoreapp3.1\SearchFight.Domain.csprojAssemblyReference.cache
+D:\CodeProjects\SearchFight.Domain\obj\Debug\netcoreapp3.1\SearchFight.Domain.AssemblyInfoInputs.cache
+D:\CodeProjects\SearchFight.Domain\obj\Debug\netcoreapp3.1\SearchFight.Domain.AssemblyInfo.cs
+D:\CodeProjects\SearchFight.Domain\obj\Debug\netcoreapp3.1\SearchFight.Domain.csproj.CoreCompileInputs.cache
+D:\CodeProjects\SearchFight.Domain\obj\Debug\netcoreapp3.1\SearchFight.Domain.dll
+D:\CodeProjects\SearchFight.Domain\obj\Debug\netcoreapp3.1\SearchFight.Domain.pdb

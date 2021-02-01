@@ -1,0 +1,12 @@
+D:\CodeProjects\SearchEngine.Infrastructure\bin\Debug\netcoreapp3.1\SearchEngine.Infrastructure.deps.json
+D:\CodeProjects\SearchEngine.Infrastructure\bin\Debug\netcoreapp3.1\SearchEngine.Infrastructure.dll
+D:\CodeProjects\SearchEngine.Infrastructure\bin\Debug\netcoreapp3.1\SearchEngine.Infrastructure.pdb
+D:\CodeProjects\SearchEngine.Infrastructure\bin\Debug\netcoreapp3.1\SearchFight.Domain.dll
+D:\CodeProjects\SearchEngine.Infrastructure\bin\Debug\netcoreapp3.1\SearchFight.Domain.pdb
+D:\CodeProjects\SearchEngine.Infrastructure\obj\Debug\netcoreapp3.1\SearchEngine.Infrastructure.csprojAssemblyReference.cache
+D:\CodeProjects\SearchEngine.Infrastructure\obj\Debug\netcoreapp3.1\SearchEngine.Infrastructure.AssemblyInfoInputs.cache
+D:\CodeProjects\SearchEngine.Infrastructure\obj\Debug\netcoreapp3.1\SearchEngine.Infrastructure.AssemblyInfo.cs
+D:\CodeProjects\SearchEngine.Infrastructure\obj\Debug\netcoreapp3.1\SearchEngine.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CodeProjects\SearchEngine.Infrastructure\obj\Debug\netcoreapp3.1\SearchEngine.Infrastructure.csproj.CopyComplete
+D:\CodeProjects\SearchEngine.Infrastructure\obj\Debug\netcoreapp3.1\SearchEngine.Infrastructure.dll
+D:\CodeProjects\SearchEngine.Infrastructure\obj\Debug\netcoreapp3.1\SearchEngine.Infrastructure.pdb

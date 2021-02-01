@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SearchEngine.Application/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Infrastructure": "1.0.0",
+          "SearchFight.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.Application.dll": {}
+        }
+      },
+      "SearchEngine.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SearchFight.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.Infrastructure.dll": {}
+        }
+      },
+      "SearchFight.Domain/1.0.0": {
+        "runtime": {
+          "SearchFight.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SearchEngine.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchFight.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
